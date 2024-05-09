@@ -1,0 +1,16 @@
+@hostAddress = http://localhost:5183
+
+###
+
+GET {{hostAddress}}/login/
+Accept: application/json
+
+###
+
+GET {{hostAddress}}/user/
+Accept: application/json
+
+###
+
+GET {{hostAddress}}/logout/
+Accept: application/json
