@@ -1,0 +1,6 @@
+@Basic4.Authentication_HostAddress = http://localhost:5032
+
+GET {{Basic4.Authentication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
