@@ -1,4 +1,4 @@
-## basic4.Authentication 
+## Basic4.Authentication 
 In diesem Beispiel zeige ich, wie eine einfache Authentifizierung mit einer Middleware implementiert werden kann.
 Das Beispiel soll zeigen, wie die Authentifizierung in ASP.NET Core in etwa funktioniert. 
 In weiteren Beispielen werde ich darauf eingehen, wie die Authentifizierung in .NET besser und mit Standardwerkzeugen implementiert wird, so dass klarer wird, wie es intern funktioniert.

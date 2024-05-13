@@ -1,4 +1,4 @@
-## basic2.Authentication
+## Basic2.Authentication
 Senzibel Daten verschlüsseln
 
 zur vergleich im ersten Projekt basic1.Authentication\Program.cs werden die Authentifizierungsinformationen (in diesem Fall ein Benutzername) direkt in einem Cookie gespeichert. 

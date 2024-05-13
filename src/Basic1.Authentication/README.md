@@ -1,4 +1,4 @@
-## basic1.Authentication
+## Basic1.Authentication
 
 Dieses Projekt zeigt eine einfache Implementierung einer Authentifizierungsfunktion in einer Webanwendung. 
 Es verwendet das ASP.NET Minimal API, um einen Webserver zu erstellen und Endpunkte für verschiedene Aktionen bereitzustellen.
