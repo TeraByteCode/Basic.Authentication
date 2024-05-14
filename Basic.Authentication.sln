@@ -14,9 +14,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basic2.Authentication", "sr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basic3.Authentication", "src\Basic3.Authentication\Basic3.Authentication.csproj", "{74695A3C-AF8A-468D-BF80-036CC44B72DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic4.Authentication", "src\Basic4.Authentication\Basic4.Authentication.csproj", "{07F7062B-EE25-45AB-8145-1E785809971D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basic4.Authentication", "src\Basic4.Authentication\Basic4.Authentication.csproj", "{07F7062B-EE25-45AB-8145-1E785809971D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic5.Authentication", "src\Basic5.Authentication\Basic5.Authentication.csproj", "{9E98AB0A-BA50-4276-B923-BD38812FB265}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basic5.Authentication", "src\Basic5.Authentication\Basic5.Authentication.csproj", "{9E98AB0A-BA50-4276-B923-BD38812FB265}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic6.Authentication", "src\Basic6.Authentication\Basic6.Authentication.csproj", "{F50007A5-C509-48DB-BD35-C19E1F08E7F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -44,6 +46,10 @@ Global
 		{9E98AB0A-BA50-4276-B923-BD38812FB265}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E98AB0A-BA50-4276-B923-BD38812FB265}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E98AB0A-BA50-4276-B923-BD38812FB265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F50007A5-C509-48DB-BD35-C19E1F08E7F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50007A5-C509-48DB-BD35-C19E1F08E7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50007A5-C509-48DB-BD35-C19E1F08E7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50007A5-C509-48DB-BD35-C19E1F08E7F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
