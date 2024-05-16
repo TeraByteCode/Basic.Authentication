@@ -1,0 +1,6 @@
+@Basic7.Authentication_HostAddress = http://localhost:5120
+
+GET {{Basic7.Authentication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
